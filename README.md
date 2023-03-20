@@ -1,2 +1,2 @@
-<h1 align="center">Angular - ProWay</h1>
-<p align="center"><strong>Website made using Angular</strong></p>
+<h1 align="center">Ecommerce Website - ProWayy</h1>
+<p align="center"><strong>Simple ecommerce website made with Angular</strong></p>
